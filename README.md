@@ -15,3 +15,28 @@ __This also contains dasboard__
 - Data Source:
 + www.kaggle.com
   
+## Tools Used
+### Power BI: 
+      1. For creating interactive visualizations
+      2. For Dashboard Creation 
+      3. For visuals that present data insights in a user-friendly format
+
+
+## Data Overview
+_The dataset includes the following columns:_
+
+> __CustomerID: Unique identifier for each car sold.__
+> +	Age Group: Exploring the age ranges
+> +	Country: Geographic location where the product was sold.
+> -	Product Category: Exploring the three products in the dataset
+> -	Profit: Income flow profit
+> -	Gender: Gender of the buyer.
+> -	Revenue: Revenue generated from each sale.
+
+## Data Visualization
+[To view the power bi dashboard, click here](https://ibb.co/9MmFX94)
+
+
+
+
+
