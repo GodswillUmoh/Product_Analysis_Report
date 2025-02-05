@@ -42,7 +42,14 @@ _The dataset includes the following columns:_
 
 ![Uploading Screenshot (286).png…]()
 
+## SQL
+```sql
+SELECT * FROM EmployeeTable
+```
 
+```sql
+SELECT name FROM EmployeeTable
+```
 
 
 
