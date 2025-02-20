@@ -35,12 +35,15 @@ __This also contains dasboard__
       3. For visuals that present data insights in a user-friendly format
 
 ### SQL 
-> Task
+> #### Task
+```sql
 1. Write a query to retrieve Customer above 50 years
 2. Write SQL Query to retrieve customers who purchased above 1000 dollars
 3. Write query to retrieve all accessories of bikes
 4. Retrieve all customers in Canada
 5. Retrieve all product category and profit
+
+```
 
 ## Data Overview
 _The dataset includes the following columns:_
