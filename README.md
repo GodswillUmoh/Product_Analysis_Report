@@ -9,6 +9,7 @@ This is a sales report of product by countries
 |26/11/2015|	11019|	19|	Youth (<25)|	M|	Canada|	British |Columbia|	Accessories|	Bike Racks|	Hitch Rack| - 4-Bike	|	8	|45|	120	|360	|950	|590|
 |23/03/2014|	11039|	49|	Adults (35-64)|	M	|Australia|	New South Wales|	Accessories|	Bike Racks	|Hitch Rack| - 4-Bike	|	23|	45	|120|	1035	|2401|	1366|
 
+Note: To see all table content visit kaggle.com for accessories file:
 
 
 ---
@@ -33,6 +34,13 @@ __This also contains dasboard__
       2. For Dashboard Creation 
       3. For visuals that present data insights in a user-friendly format
 
+### SQL 
+> Task
+1. Write a query to retrieve Customer above 50 years
+2. Write SQL Query to retrieve customers who purchased above 1000 dollars
+3. Write query to retrieve all accessories of bikes
+4. Retrieve all customers in Canada
+5. Retrieve all product category and profit
 
 ## Data Overview
 _The dataset includes the following columns:_
