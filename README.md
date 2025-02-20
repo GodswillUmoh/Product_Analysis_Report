@@ -41,7 +41,7 @@ __This also contains dasboard__
 2. Write SQL Query to retrieve customers who purchased above 1000 dollars
 3. Write query to retrieve all accessories of bikes
 4. Retrieve all customers in Canada
-5. Retrieve all product category and profit
+5. Retrieve all product category and profit and rename product category to Products
 
 ```
 
@@ -70,8 +70,21 @@ WHERE customer age > 50;
 ```
 
 ```sql
-SELECT name FROM EmployeeTable
+SELECT * FROM accessories
+WHERE revenue >= 1000;
 ```
 
+```sql
+SELECT * FROM accessories
+WHERE Product Category LIKE '%bike%'
+```
 
+```sql
+SELECT * FROM accessories
+WHERE country = 'Canada';
+```
+
+```sql
+SELECT product_category AS Products, profit FROM accessories; 
+```
 
