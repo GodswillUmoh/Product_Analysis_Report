@@ -63,9 +63,10 @@ _The dataset includes the following columns:_
 
 ![Uploading Screenshot (286).png…]()
 
-## SQL
+## SQL QUERIES
 ```sql
-SELECT * FROM EmployeeTable
+SELECT * FROM accessories
+WHERE customer age > 50;
 ```
 
 ```sql
