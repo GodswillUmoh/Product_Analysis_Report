@@ -5,9 +5,9 @@ This is a sales report of product by countries
 
 |Date|	Customer ID|	Customer Age|	Age Group|	Customer Gender|	Country|	State|	Product Category|	Sub Category|	Product|	Frame Size|	Order Quantity|	Unit Cost|	Unit Price|	Cost|	Revenue|	Profit|
 |------|------|------|------|------|-------|------|-------|-------|------|--------|-------|-------|---------|--------|-------|--------|
-26/11/2013	11019	19	Youth (<25)	M	Canada	British Columbia	Accessories	Bike Racks	Hitch Rack - 4-Bike		8	45	120	360	950	590
-26/11/2015	11019	19	Youth (<25)	M	Canada	British Columbia	Accessories	Bike Racks	Hitch Rack - 4-Bike		8	45	120	360	950	590
-23/03/2014	11039	49	Adults (35-64)	M	Australia	New South Wales	Accessories	Bike Racks	Hitch Rack - 4-Bike		23	45	120	1035	2401	1366
+|26/11/2013|	11019|	19|	Youth (<25)|	M	|Canada|	British| Columbia|	Accessories|	Bike Racks|	Hitch Rack| - 4-Bike|		8|	45|	120|	360	|950	|590|
+|26/11/2015|	11019|	19|	Youth (<25)|	M|	Canada|	British |Columbia|	Accessories|	Bike Racks|	Hitch Rack| - 4-Bike	|	8	|45|	120	|360	|950	|590|
+|23/03/2014|	11039|	49|	Adults (35-64)|	M	|Australia|	New South Wales|	Accessories|	Bike Racks	|Hitch Rack| - 4-Bike	|	23|	45	|120|	1035	|2401|	1366|
 
 
 
